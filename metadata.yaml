@@ -17,6 +17,8 @@ creator:
 description: The story of Nicholas Moretz, a woodcutter from the Gutach Valley in
   the Black Forest, Germany, takes place during the peasant uprisings in Germany at
   the time of Martin Luther's Reformation movement.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21486#The-Woodcutter-of-Gutech
 gutenberg_issued: '2007-05-15'
 gutenberg_type: Text
 identifiers:
